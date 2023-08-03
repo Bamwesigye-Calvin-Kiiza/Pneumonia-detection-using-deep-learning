@@ -25,10 +25,10 @@ scikit-learn,
 ## Getting Started
 To run the project code, follow these steps:
 
-### Clone this repository to your local machine.
-### Install the required dependencies using pip or conda.
-### Download the dataset and place it in the appropriate folder (details provided in the code comments).
-### Execute the Jupyter notebook or Python script to train the model and evaluate its performance.
+### i) Clone this repository to your local machine.
+### ii) Install the required dependencies using pip or conda.
+### iii) Download the dataset and place it in the appropriate folder (details provided in the code comments).
+### iv) Execute the Jupyter notebook or Python script to train the model and evaluate its performance.
 
 ## Results
 After training the model, we evaluate its performance on the validation set. The results include accuracy to measure the model's effectiveness in detecting pneumonia from chest X-ray images.
